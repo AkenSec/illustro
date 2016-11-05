@@ -61,5 +61,7 @@ HWiNFO-RTSS-SensorInstance=0x0
 HWiNFO-RTSS-FPS=0x8000000
 
 ; Drives
-HWiNFO-DRIVE-SensorId=0xf0000101
+HWiNFO-SMART-SensorId=0xf0000100
+HWiNFO-SMART-Temperature=0x1000000
+HWiNFO-Drive-SensorId=0xf0000101
 HWiNFO-Drive-TotalActivity=0x7000002

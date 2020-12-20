@@ -71,6 +71,7 @@ HWiNFO-MOBO-SensorId=0xf0ec0502
 HWiNFO-MOBO-SensorInstance=0x0
 HWiNFO-MOBO-Temp-Cpu=0x1000000
 HWiNFO-MOBO-Temp-Mobo=0x1000002
+HWiNFO-MOBO-Temp-VRM=0x1000005
 
 ; Motherboard Voltages
 HWiNFO-MOBO-V-Core=0x2000000
